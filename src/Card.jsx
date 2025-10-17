@@ -10,7 +10,7 @@ export default function Card() {
 
   }
 
-  )'
+  )
 
 
   
@@ -20,7 +20,7 @@ export default function Card() {
   }
 
 
-  useEffect (() => {  git remote add origin https://github.com/mariana977/.git
+  useEffect (() => {  
     localStorage.setItem('darkMode', darkMode)
   }
 
